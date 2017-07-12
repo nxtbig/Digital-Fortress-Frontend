@@ -47,5 +47,4 @@
 </template>
 
 <script src="./App.js" ></script>
-
 <link href="./App.css" rel="stylesheet" type="text/css" />

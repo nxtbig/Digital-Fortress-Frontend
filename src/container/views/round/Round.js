@@ -1,7 +1,5 @@
 import { mapActions } from 'vuex'
-var Wheenav = require('wheelnav')
-var colorpalette = require('colorpalette');
-var icon = require('raphael')
+
 export default {
   created: function () {
     this.setToolbarTitle('Round Overview')
